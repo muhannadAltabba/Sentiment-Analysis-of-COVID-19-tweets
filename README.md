@@ -1,5 +1,9 @@
 # Sentiment-Analysis-of-COVID-19-tweets
 This notebook include:
-## Heading level 2
+## Data cleaning:
+This process removes the URL, Date, Invalid spaces, symbols, wrong hashtag,  numbers and stop wards. 
+
+## Text Analusis:
+
 
 
